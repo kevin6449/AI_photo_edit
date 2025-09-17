@@ -1,0 +1,5 @@
+{
+  "name": "AI Portrait Pro",
+  "description": "An AI-powered application to professionally retouch and style portrait photos. Upload an image, select styles for hair, clothing, background, and lighting, and generate high-quality, customized headshots.",
+  "requestFramePermissions": []
+}
